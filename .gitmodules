@@ -1,0 +1,3 @@
+[submodule "eht-imaging"]
+	path = eht-imaging
+	url = https://github.com/achael/eht-imaging.git
